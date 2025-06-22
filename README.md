@@ -1,1 +1,1 @@
-# loginhtml
+# mikrotik-hotspot-theme
